@@ -1,0 +1,24 @@
+# core
+numpy==1.21.6
+tqdm==4.65.0
+scikit-learn==1.0.2
+matplotlib==3.5.2
+
+# PyTorch 
+torch==1.13.1
+torchvision==0.14.1
+
+# Image / CV
+opencv-python==4.6.0.66
+
+# Logging / experiment tracking
+wandb==0.15.6
+tensorboard==2.11.0
+
+# utilities
+gdown==4.6.4
+
+# optional / helpful
+seaborn==0.11.2
+pandas==1.3.5
+scipy==1.7.3

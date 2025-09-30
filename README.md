@@ -1,28 +1,31 @@
-# CAUA-A-Realistic-and-Effective-Attack-on-Machine-Unlearning-under-Limited-Information-artifact
-Our algorithm provide a comprehensive evaluation on Machine Unlearning services.
+CAUA: A Realistic and Effective Attack on Machine Unlearning under Limited Information - Artifact
 
-## Requirements
-Please view ``requirements.txt``
+This artifact provides a comprehensive evaluation of Machine Unlearning services under limited information scenarios.
 
-Python
-torch
-torchvision
-tqdm
-numpy
+Requirements:
+- Python 3.8+
+- torch
+- torchvision
+- tqdm
+- numpy
+All dependencies can be installed via:
+    pip install -r requirements.txt
 
-## Dataset
-- Cifar 10 
-- Cifar 100
-- STL 10
+Datasets (please download before running):
+- CIFAR-10
+- CIFAR-100
+- STL-10
 
-Thank you for your detailed feedback. We sincerely apologize for the incomplete submission in the previous version.
+Note on submission:
 
-Due to overlapping work and other commitments in the past week, we need a few more days to finalize the missing components, including:
+We apologize for the incomplete submission in the previous version. Due to overlapping work and other commitments, we need a few more days to finalize the missing components:
 
-A working install.sh script
+- Working install.sh script
+- Executable run.sh scripts
+- Comprehensive README with setup instructions, dependencies, and expected outputs
 
-Executable run.sh scripts
+We plan to upload the complete artifact **by October 8**. Initially, we will provide a working version for **CIFAR-10**, and later extend support to **CIFAR-100 and STL-10**. 
 
-A comprehensive README with setup instructions, dependencies, and expected outputs
+Thank you for your understanding and patience. We will notify here as soon as the updated artifact is ready.
 
-We plan to upload the complete artifact by October 5–6. We truly appreciate your understanding and patience, and will notify here as soon as the update is ready.
+

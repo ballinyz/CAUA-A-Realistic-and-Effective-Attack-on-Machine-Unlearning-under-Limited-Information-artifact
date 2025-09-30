@@ -1,3 +1,17 @@
 # CAUA-A-Realistic-and-Effective-Attack-on-Machine-Unlearning-under-Limited-Information-artifact
-Source code and models for ACSAC 2025 paper "CAUA: A Realistic and Effective Attack on Machine Unlearning under Limited Information"
-Note: Due to a busy schedule with other research and work commitments, the upload of this artifact was done under time pressure and is not yet fully polished. Minor updates (documentation improvements, clearer scripts) will be pushed in the coming days. The current repository is not runnable and sufficient to reproduce the core claims, but reviewers may also wait for the next release for a more polished package.
+Our algorithm provide a comprehensive evaluation on Machine Unlearning services.
+
+## Requirements
+Please view ``requirements.txt``
+
+Python
+torch
+torchvision
+tqdm
+numpy
+
+## Dataset
+- Cifar 10 
+- Cifar 100
+- STL 10
+

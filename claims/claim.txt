@@ -1,0 +1,8 @@
+After running bash run.sh
+
+You should observe unlearning behaviors consistent with those reported in the paper.
+For example:
+
+Base accuracy ≈ 85%
+
+Target class F1-score drop comparable to Table 2 (±1%)

@@ -13,8 +13,20 @@ All dependencies can be installed via:
 
 Datasets (please download before running):
 - CIFAR-10
-- CIFAR-100
-- STL-10
+
+Infrastructure:
+This artifact can be executed on a local GPU machine or Google Colab.
+No special infrastructure or credentials are required.
+
+Run bash install.sh to set up the environment.
+
+## License
+This artifact is released under the MIT License.  
+© 2025 Zhang Yichen and collaborators.
+
+## Usage and Restrictions
+This artifact is provided for academic research and artifact evaluation only.  
+Commercial or production use is not permitted without prior authorization.
 
 Note on submission:
 
